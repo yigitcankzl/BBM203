@@ -1,0 +1,49 @@
+Province Zonguldak is weather-restricted. Skipping.
+Province Amasya is weather-restricted. Skipping.
+Province Amasya is weather-restricted. Skipping.
+Province Zonguldak is weather-restricted. Skipping.
+Province Kayseri is weather-restricted. Skipping.
+Province Kayseri is weather-restricted. Skipping.
+Province Amasya is weather-restricted. Skipping.
+Province Kayseri is weather-restricted. Skipping.
+Province Amasya is weather-restricted. Skipping.
+Province Amasya is weather-restricted. Skipping.
+Province Kayseri is weather-restricted. Skipping.
+Province Rize is weather-restricted. Skipping.
+Province Rize is weather-restricted. Skipping.
+Province Rize is weather-restricted. Skipping.
+Province Rize is weather-restricted. Skipping.
+Province Rize is weather-restricted. Skipping.
+Province Rize is weather-restricted. Skipping.
+Province Amasya is weather-restricted. Skipping.
+Province Zonguldak is weather-restricted. Skipping.
+Province Zonguldak is weather-restricted. Skipping.
+Province Zonguldak is weather-restricted. Skipping.
+Province Manisa is weather-restricted. Skipping.
+Province Manisa is weather-restricted. Skipping.
+Province Manisa is weather-restricted. Skipping.
+Province Manisa is weather-restricted. Skipping.
+Province Manisa is weather-restricted. Skipping.
+----------------------------
+Journey Completed!
+----------------------------
+Total Number of Provinces Visited: 56
+Total Distance Covered: 9016 km
+Route Taken:
+Ankara -> Bolu -> Cankiri -> Corum -> Kastamonu -> Kirikkale -> Kirsehir -> 
+Yozgat -> Tokat -> Sivas -> Malatya -> Adiyaman -> Diyarbakir -> Elazig ->
+Tunceli -> Bingol -> Bitlis -> Mus -> Siirt -> Batman -> Mardin -> Sirnak -> 
+Hakkari -> Van -> Agri -> Igdir -> Kars -> Ardahan -> Artvin -> Erzurum -> Erzincan -> 
+Gumushane -> Bayburt -> Trabzon -> Giresun -> Ordu -> Samsun -> Sinop -> Eskisehir ->
+Bursa -> Istanbul -> Duzce -> Bilecik -> Kocaeli -> Kutahya -> Sakarya -> Yalova -> 
+Balikesir -> Izmir -> Usak -> Afyon -> Burdur -> Antalya -> Denizli -> Mugla -> Aydin -> End
+
+Priority Provinces Status:
+- Ankara (Visited)
+- Istanbul (Visited)
+- Izmir (Visited)
+- Antalya (Visited)
+- Bursa (Visited)
+
+Total Priority Provinces Visited: 5 out of 5
+Success: All priority provinces were visited.
